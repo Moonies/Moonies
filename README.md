@@ -8,7 +8,7 @@ I have 5 years of experience in web application development. Through my previous
 
 * 🌍  I'm based in Japan, Kyoto
 * ✉️  You can contact me at [sarun.petchsoongsakul@gmail.com](mailto:sarun.petchsoongsakul@gmail.com)
-* 🧠  I'm learning 京都民際日本語学校
+
 
 ### Skills
 
