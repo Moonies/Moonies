@@ -6,7 +6,7 @@ Front End Developer >w<
 
 I have 5 years of experience in web application development. Through my previous experiences, I have honed my front-end skills and become proficient in technologies such as HTML, AngularJS, ReactJS, React Native, TypeScript, and more. Over my 5-year career, I have been involved in numerous projects, learning techniques and best practices to create outstanding interfaces that cater to user needs. I consistently keep an eye on emerging technology trends, aiming for continuous self-improvement and striving for further accomplishments. Looking ahead, I am eager to venture into back-end development tasks as well.
 
-* 🌍  I'm based in Japan, Kyo
+* 🌍  I'm based in Japan, Kyoto
 * ✉️  You can contact me at [sarun.petchsoongsakul@gmail.com](mailto:sarun.petchsoongsakul@gmail.com)
 * 🧠  I'm learning 京都民際日本語学校
 
